@@ -1,0 +1,7 @@
+C:\Users\ozgec\source\repos\CalculateMaxPathSum\CalculateMaxPathSum\bin\Debug\CalculateMaxPathSum.exe.config
+C:\Users\ozgec\source\repos\CalculateMaxPathSum\CalculateMaxPathSum\bin\Debug\CalculateMaxPathSum.exe
+C:\Users\ozgec\source\repos\CalculateMaxPathSum\CalculateMaxPathSum\bin\Debug\CalculateMaxPathSum.pdb
+C:\Users\ozgec\source\repos\CalculateMaxPathSum\CalculateMaxPathSum\obj\Debug\CalculateMaxPathSum.csproj.AssemblyReference.cache
+C:\Users\ozgec\source\repos\CalculateMaxPathSum\CalculateMaxPathSum\obj\Debug\CalculateMaxPathSum.csproj.CoreCompileInputs.cache
+C:\Users\ozgec\source\repos\CalculateMaxPathSum\CalculateMaxPathSum\obj\Debug\CalculateMaxPathSum.exe
+C:\Users\ozgec\source\repos\CalculateMaxPathSum\CalculateMaxPathSum\obj\Debug\CalculateMaxPathSum.pdb
