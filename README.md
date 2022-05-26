@@ -1,1 +1,1 @@
-# MaxPathHesaplama
+# MaxPathCalculator
